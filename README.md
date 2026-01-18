@@ -1,4 +1,4 @@
-# Hi, I'm Reece White 👋🗿
+# Hi, I'm Reece 👋🗿
 
 I’m a Software Engineer with 5 years of experience building full-stack applications.
 
